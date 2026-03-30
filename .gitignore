@@ -9,6 +9,9 @@
 *.JPG
 *.JPEG
 *.PNG
+!docs/readme/
+!docs/readme/*.png
+!docs/readme/*.PNG
 *.BMP
 *.TIF
 *.TIFF

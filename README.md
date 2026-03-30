@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://kimasill.github.io/images/Classification/classification_title.png" alt="훈련 배치 시각화" width="720" />
+  <img src="https://raw.githubusercontent.com/kimasill/kCarsClassificationModule/main/docs/readme/classification_title.png" alt="훈련 배치 시각화" width="720" />
 </p>
 
 > **YOLOv5** 기반으로 국산 차량 **74종**(연식·모델)을 구분하는 객체 인식·분류 파이프라인을 담은 레포지토리입니다. 데이터 수집·전처리·학습·평가 과정과 인사이트는 [프로젝트 페이지](https://kimasill.github.io/projects/car-classification.html)에서 서술하고, 본 README는 **레포 목적·핵심 수치·문서·데이터 링크** 위주로 정리합니다.
