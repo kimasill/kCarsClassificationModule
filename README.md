@@ -1,3 +1,21 @@
+# kCarsClassificationModule (YOLOv5)
+
+<p align="center">
+  <a href="https://github.com/kimasill/kCarsClassificationModule"><img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-kCarsClassificationModule-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img alt="YOLOv5" src="https://img.shields.io/badge/YOLOv5-Model-2EA44F?style=for-the-badge" />
+</p>
+
+> YOLOv5 기반 국산 차량 분류 프로젝트입니다.  
+> 데이터 수집(크롤링)→라벨링→학습→평가까지의 전체 파이프라인을 구성하고, 데이터 구성에 따른 정확도 변화와 모델 선택 과정을 정리했습니다.
+
+## Links
+
+- **Portfolio (PDF/웹)**: `https://kimasill.github.io/`
+- **Repo**: `https://github.com/kimasill/kCarsClassificationModule`
+
+---
 
 ## kCarClassificationModule
 
