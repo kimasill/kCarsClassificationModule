@@ -30,8 +30,8 @@
 
 - 국산 차량 연식·모델 단위 **데이터셋 구축**
 - 객체 인식 기반 **차량 분류 모델** 설계·학습
-- 크롤링·**증강 전략**으로 도메인 다양성 확대
-- 데이터셋·모델 조합 **실험으로 최적안 탐색**
+- Selenium/AutoCrawler **크롤링**으로 촬영 환경 편향 보완
+- YOLOv5s→x **단계별 실험**으로 데이터·증강·모델 조합 비교
 
 ---
 
@@ -68,7 +68,7 @@
 ## 스크린샷 (요약)
 
 <p align="center">
-  <img src="https://kimasill.github.io/images/Classification/carImg.png" alt="말리부 2015 vs 2018" width="480" />
+  <img src="https://raw.githubusercontent.com/kimasill/kCarsClassificationModule/main/docs/readme/train_batch2.jpg" alt="학습 배치(train_batch2)" width="720" />
 </p>
 
 <p align="center">
