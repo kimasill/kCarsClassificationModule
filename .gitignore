@@ -12,6 +12,10 @@
 !docs/readme/
 !docs/readme/*.png
 !docs/readme/*.PNG
+!docs/readme/*.jpg
+!docs/readme/*.jpeg
+!docs/readme/*.JPG
+!docs/readme/*.JPEG
 *.BMP
 *.TIF
 *.TIFF
